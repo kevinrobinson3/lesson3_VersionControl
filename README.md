@@ -5,16 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(January 30, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Kevin Robinson)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was about learning the important details of version control systems and Git repository.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create a Git Hub account.)
+2. (I learned how to backup local files to the Local Repository.)
+3. (I learned how to backup local files to the Remote Repository.)
 
+
+https://kevinrobinson3.github.io/lesson3_VersionControl/ 
